@@ -10,5 +10,5 @@ now let's commit something more.
 
 
 now I'm using feature/log branch for this particular commit.
- commiting one more time
+commiting one more time
  

@@ -14,9 +14,8 @@ commiting one more time
  
 let's try out hands on undoing uncommited changes.
 
-<<<<<<< HEAD
 adding content to main
-=======
 
 Added one more branch
->>>>>>> test
+
+done with merge

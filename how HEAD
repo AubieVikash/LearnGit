@@ -1,0 +1,106 @@
+[33mcommit b2f7cad8a9ec43560d198e3b12e3e9ec091fe3de[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 21dcd73 c793015
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Thu Jan 6 11:23:32 2022 +0530
+
+    Merge branch 'test' into main
+
+[33mcommit c793015b9e038fd83075f6264f3fb2e340e9fad8[m[33m ([m[1;32mtest[m[33m)[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Thu Jan 6 11:22:42 2022 +0530
+
+    greet function
+
+[33mcommit 29d64ba1bfb3a423bef2a7d94e3fbc2df18a8e42[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Thu Jan 6 11:20:23 2022 +0530
+
+    js file added
+
+[33mcommit 21dcd739a480ffd278f3a784a04a7ca8190b8963[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 18:16:56 2022 +0530
+
+    merge done
+
+[33mcommit 1405cd771463c32549c638f56814c52df4fb65e7[m
+Merge: 4c15896 951eb29
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 18:14:53 2022 +0530
+
+    merged
+
+[33mcommit 4c15896bfdb296a802fd4e5750d19418aeffb2e2[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 18:12:41 2022 +0530
+
+    commit -1 main
+
+[33mcommit 951eb29f0f4da2b03a0e447b9a2f3959767fb2a5[m[33m ([m[1;31morigin/test[m[33m)[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 18:11:18 2022 +0530
+
+    test branch added
+
+[33mcommit 84dfae47ed545fb5aac7b4eb4abe68bcd34a1832[m
+Merge: 0e030cd e18b4d6
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 18:07:18 2022 +0530
+
+    merged
+
+[33mcommit 0e030cd96c8671f8aa043c9384119360be48834e[m[33m ([m[1;31morigin/feature/log[m[33m)[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 17:43:37 2022 +0530
+
+    minor change
+
+[33mcommit 18dbcd4f5c70ac0bfa8cc1b7d20ac7bf04bb911b[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 17:19:58 2022 +0530
+
+    committed one more time
+
+[33mcommit 9115ad3f6c590ea2d38101c41d98d5817ee39865[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 17:11:57 2022 +0530
+
+    feature/log commit 1
+
+[33mcommit e18b4d6733297dfd86fb549d702bc5075fc53c12[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 15:51:21 2022 +0530
+
+    Revert "commited changes"
+    
+    This reverts commit 5ba1306bd06aa87dc93ee81ceca5f4db5a73b279.
+
+[33mcommit 5ba1306bd06aa87dc93ee81ceca5f4db5a73b279[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 15:50:09 2022 +0530
+
+    commited changes
+
+[33mcommit a06c47ce72e29f2bdb5b17a2863f7ed3f12a73e3[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 15:49:24 2022 +0530
+
+    uncommited changes
+
+[33mcommit 32c73341367306756ab99bbff15569b162a6d703[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 14:47:55 2022 +0530
+
+    testing SSH
+
+[33mcommit eb07ef811aee7371292113c8458c93fe1ac16611[m
+Author: AubieVikash <vikash.t@auberginesolutions.com>
+Date:   Wed Jan 5 14:03:20 2022 +0530
+
+    test commit
+
+[33mcommit a3b9676e9dbe04296a50f9ab0de60673aef91e3a[m
+Author: Vikash Singh Tomar <97153771+AubieVikash@users.noreply.github.com>
+Date:   Wed Jan 5 14:00:59 2022 +0530
+
+    Initial commit

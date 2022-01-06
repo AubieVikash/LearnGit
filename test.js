@@ -1,5 +1,8 @@
 const greet = (name) =>{
-    console.log(`Hello, My name is ${name}`);
+    if (name != undefined)
+        console.log(`Hello, My name is ${name}`);
+    else
+        console.log("invalid name");
 };
 
 greet('Vikash');

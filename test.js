@@ -2,7 +2,7 @@ const greet = (name) =>{
     if (name != undefined)
         console.log(`Hello, My name is ${name}`);
     else
-        console.log("invalid name");
+        console.log("invalid");
 };
 
 greet('Vikash');
